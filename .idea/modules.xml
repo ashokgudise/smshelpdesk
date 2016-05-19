@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smshelpdesk.iml" filepath="$PROJECT_DIR$/.idea/modules/smshelpdesk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smshelpdesk_main.iml" filepath="$PROJECT_DIR$/.idea/modules/smshelpdesk_main.iml" group="smshelpdesk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/smshelpdesk_test.iml" filepath="$PROJECT_DIR$/.idea/modules/smshelpdesk_test.iml" group="smshelpdesk" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.persistence:eclipselink:2.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/eclipselink/2.6.1/f7867126076b593254b185659598c9de485ee2a6/eclipselink-2.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.persistence/eclipselink/2.6.1/d0300ed9084f842c4bc4ec6f9ff86fea57efb616/eclipselink-2.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
